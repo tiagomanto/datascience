@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * Tiago
 * Priscila
 * Lavinia
@@ -15,3 +16,6 @@
 * Reproducible Research
 * Statistical Inference
 * Regression Models
+=======
+# datascience
+>>>>>>> c85535c0ade926d2e2f02583e5119e9670abb0e2
