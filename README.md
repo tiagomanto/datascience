@@ -1,7 +1,9 @@
-* Avro
-* Harrier
-* Hornet
+* Tiago
+* Priscila
+* Lavinia
+* Irene
+* Benedito
+* Mica
+* Ester
 
-"Getting and Cleaning Data" and "Exploratory Data Analysis."
-"Getting and Cleaning Data" and "Exploratory Data Analysis."
-"Getting and Cleaning Data" and "Exploratory Data Analysis."
+"**Mudando os dados** para o nome dos _familiares_"
